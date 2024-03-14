@@ -1,0 +1,2 @@
+Este es mi documento1, prara mi primer commit.modificacion
+Èsta es la setgunda linea para el segundo commit.
